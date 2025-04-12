@@ -24,5 +24,5 @@ export const companies: Company[] = [
   {
     name: "Pinterest",
     logo: "/assets/clients/pinterest.svg",
-  }
+  },
 ];
